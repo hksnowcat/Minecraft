@@ -1,2 +1,0 @@
-ID	Version	Descriptions
-SnowCatsAutoUnworkbench	0.0.1	Changelog for future use.
