@@ -1,4 +1,9 @@
 <mods>
+	<SnowCatLib>
+		<version>0.0.1</version>
+		<desc>Changelog for future use.</desc>
+		<url></url>
+	</SnowCatLib>
 	<SnowCatsAutoUnworkbench>
 		<version>0.0.1</version>
 		<desc>Changelog for future use.</desc>
