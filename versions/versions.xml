@@ -1,7 +1,7 @@
 <mods>
-	<mod>
-		<id>SnowCatsAutoUnworkbench</id>
+	<SnowCatsAutoUnworkbench>
 		<version>0.0.1</version>
 		<desc>Changelog for future use.</desc>
-	</mod>
+		<url></url>
+	</SnowCatsAutoUnworkbench>
 </mods>
