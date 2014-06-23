@@ -1,12 +1,10 @@
 <mods>
 	<SnowCatLib>
 		<version>0.0.1</version>
-		<desc>Changelog for future use.</desc>
-		<url></url>
+		<outdatedMsg>Changelog for future use.</outdatedMsg>
 	</SnowCatLib>
 	<SnowCatsAutoUnworkbench>
 		<version>0.0.1</version>
-		<desc>Changelog for future use.</desc>
-		<url></url>
+		<outdatedMsg>Changelog for future use.</outdatedMsg>
 	</SnowCatsAutoUnworkbench>
 </mods>
