@@ -1,10 +1,10 @@
 <mods>
 	<SnowCatLib>
-		<latestVersion>0.0.2</latestVersion>
-		<outdatedMsg>Changelog for future use.</outdatedMsg>
+		<latestVersion>0.0.1</latestVersion>
+		<outdatedMsg>This is the first released version. Please visit the post on Minecraft forum for details.</outdatedMsg>
 	</SnowCatLib>
 	<SnowCatsAutoUnworkbench>
 		<latestVersion>0.0.1</latestVersion>
-		<outdatedMsg>Changelog for future use.</outdatedMsg>
+		<outdatedMsg>This is the first released version. Please visit the post on Minecraft forum for details.</outdatedMsg>
 	</SnowCatsAutoUnworkbench>
 </mods>
